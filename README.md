@@ -1,1 +1,1 @@
-This repo is about Shell and Bash projects
+This repo is about Shell and Bash projects :D
